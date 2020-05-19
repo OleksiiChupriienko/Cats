@@ -18,6 +18,6 @@ class CatImageViewCell: UICollectionViewCell {
     
     override func prepareForReuse() {
         super.prepareForReuse()
-        imageView.image = UIImage(named: "cat-butt")
+        imageView.image = UIImage(named: Constants.placeholderImage)
     }
 }

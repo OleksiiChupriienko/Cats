@@ -19,4 +19,5 @@ enum Constants {
     static let zoomedId = "ZoomedImage"
     static let collectionCell = "CatImageCell"
     static let tableCell = "CatBreedCell"
+    static let placeholderImage = "cat-butt"
 }

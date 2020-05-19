@@ -26,7 +26,7 @@ class CatBreedCell: UITableViewCell {
         super.prepareForReuse()
         onReuse()
         label.text = ""
-        picture.image = UIImage(named: "cat-butt")
+        picture.image = UIImage(named: Constants.placeholderImage)
     }
 
 }
