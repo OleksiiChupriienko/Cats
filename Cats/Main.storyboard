@@ -33,7 +33,7 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cat-butt" translatesAutoresizingMaskIntoConstraints="NO" id="wJq-gY-qrW">
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cat" translatesAutoresizingMaskIntoConstraints="NO" id="wJq-gY-qrW">
                                                     <rect key="frame" x="8" y="8" width="128" height="128.5"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" priority="999" constant="128" identifier="$PictureHighConstraint$" id="2Ke-Gs-cIa"/>
@@ -109,7 +109,7 @@
                                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
                                             </textView>
-                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cat-butt" translatesAutoresizingMaskIntoConstraints="NO" id="E0J-qJ-WsM">
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cat" translatesAutoresizingMaskIntoConstraints="NO" id="E0J-qJ-WsM">
                                                 <rect key="frame" x="16" y="20" width="343" height="343"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" secondItem="E0J-qJ-WsM" secondAttribute="height" multiplier="1:1" id="e5W-1E-Nfe"/>
@@ -210,7 +210,7 @@
                                             <rect key="frame" x="0.0" y="0.0" width="93" height="93"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cat-butt" translatesAutoresizingMaskIntoConstraints="NO" id="MZ8-Bw-s9Z">
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cat" translatesAutoresizingMaskIntoConstraints="NO" id="MZ8-Bw-s9Z">
                                                     <rect key="frame" x="0.0" y="0.0" width="93" height="93"/>
                                                 </imageView>
                                             </subviews>
@@ -307,6 +307,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="cat-butt" width="100" height="100"/>
+        <image name="cat" width="512" height="512"/>
     </resources>
 </document>
